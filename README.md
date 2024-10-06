@@ -1,2 +1,6 @@
 # test-one
-software homework 
+# software homework 
+int main(){
+  print("Hello World!")
+  return 0
+}
